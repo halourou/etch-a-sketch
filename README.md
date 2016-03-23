@@ -8,4 +8,4 @@ This game was written in html, css, javascript, and jQuery
 
 Written by [Halourou Boukari](https://github.com/halourou)
 
-Play the game [here]().
+Play the game [here](http://htmlpreview.github.com/?https://github.com/halourou/etch-a-sketch/blob/master/index.html).
